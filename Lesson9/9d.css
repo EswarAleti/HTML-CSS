@@ -1,0 +1,25 @@
+div {
+  width: 350px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rbg(150, 150, 150);
+  padding-left: 10px;
+  padding-bottom: 0px;
+  background-color: rgb(37, 37, 37);
+}
+
+p {
+  font-family: Arial;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.install {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.description {
+  color: rgb(118, 118, 118);
+  margin-bottom: 15px;
+}

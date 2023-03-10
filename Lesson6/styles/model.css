@@ -1,0 +1,19 @@
+p {
+  margin: 0px 0px;
+}
+.model-class {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.order-message {
+  text-align: center;
+}
+.delivery-link {
+  text-decoration: underline;
+}
+.delivery-link:hover {
+  cursor: pointer;
+}

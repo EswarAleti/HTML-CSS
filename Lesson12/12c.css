@@ -1,0 +1,10 @@
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
+.div1,
+.div3,
+.div2,
+.div4 {
+  background-color: lightpink;
+}
